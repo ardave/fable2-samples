@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\git\fable2-samples\common\src" t="IncludeRecursive">
+      <e p="App.fs" t="Include" />
+      <e p="AuthCommon.fs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Common.fsproj" t="IncludeRecursive" />
+      <e p="Domain" t="Include">
+        <e p="DataOptions.fs" t="Include" />
+        <e p="User.fs" t="Include" />
+      </e>
+      <e p="DTOs" t="Include">
+        <e p="Job.fs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Utils.fs" t="Include" />
+    </e>
+    <e p="C:\Users\dave\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dave\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_src.-1976575483.00" t="ExcludeRecursive" />
+  </component>
+</project>

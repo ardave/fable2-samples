@@ -4,19 +4,22 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- Global to the app -->
-    <Compile Include="Global.fs" />
-	<Compile Include="FrontendSettings.fs" />
-	<Compile Include="Api.fs" />
-	<Compile Include="Components/Dropdown.fs" />
+	<Compile Include="Utils.fs" />
+	<Compile Include="Domain/User.fs" />
+	<Compile Include="AuthCommon.fs" />
+	<Compile Include="Domain/DataOptions.fs" />
+    <Compile Include="DTOs/Job.fs" />
+
+	
+	
 	
 	
     <Compile Include="App.fs" />
   </ItemGroup>
   <ItemGroup>
-	<ProjectReference Include="../../common/src/Common.fsproj" />
-  </ItemGroup>
-  <ItemGroup>
     <PackageReference Include="Fable.Core" Version="2.0.2" />
     <PackageReference Include="Fable.Elmish.React" Version="2.1.0" />
+    <PackageReference Include="Thoth.Json" Version="2.5.0" />
+    <PackageReference Include="Thoth.Json.Net" Version="2.5.0" />
   </ItemGroup>
 </Project>

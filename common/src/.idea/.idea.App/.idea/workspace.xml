@@ -15,7 +15,7 @@
     <session id="-953105450">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.9" value="1" />
@@ -69,6 +69,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <marker date="1541194114938" expanded="true" signature="10:370" ph=" ..." />
+                <marker date="1541194114938" expanded="false" signature="17:71" ph="..." />
+                <marker date="1541194114938" expanded="true" signature="93:196" ph=" = ..." />
+                <marker date="1541194114938" expanded="true" signature="101:195" ph=" RequestProperties.Method HttpMethod.GET ..." />
+                <marker date="1541194114938" expanded="true" signature="224:370" ph=" = ..." />
+                <marker date="1541194114938" expanded="true" signature="232:369" ph=" RequestProperties.Method HttpMethod.POST ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -190,7 +198,6 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../common/src/Common.fsproj" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,12 +223,12 @@
       <updated>1545011015434</updated>
       <workItem from="1545011017582" duration="526000" />
       <workItem from="1545077377620" duration="599000" />
-      <workItem from="1545264837792" duration="3454000" />
+      <workItem from="1545264837792" duration="3372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4579000" />
+    <option name="totallyTimeSpent" value="4497000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -234,11 +241,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25699168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25699168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.32891247" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32891247" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -327,6 +335,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1541194114938" expanded="true" signature="10:370" ph=" ..." />
+            <marker date="1541194114938" expanded="false" signature="17:71" ph="..." />
+            <marker date="1541194114938" expanded="true" signature="93:196" ph=" = ..." />
+            <marker date="1541194114938" expanded="true" signature="101:195" ph=" RequestProperties.Method HttpMethod.GET ..." />
+            <marker date="1541194114938" expanded="true" signature="224:370" ph=" = ..." />
+            <marker date="1541194114938" expanded="true" signature="232:369" ph=" RequestProperties.Method HttpMethod.POST ..." />
+          </folding>
         </state>
       </provider>
     </entry>

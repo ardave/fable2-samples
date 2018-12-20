@@ -1,0 +1,91 @@
+namespace Sieve.Domain
+
+module DataOptions =
+
+    let nothingSelected = "Please Select"
+    let programmingLanguages = [
+        "F#"
+        "C#"
+        "Python"
+        "Haskell"
+        "Lua"
+        "JavaScript"
+        "Java"
+        "Ruby"
+        "C"
+        "C++"
+        "Rust"
+        "OCaml"
+        "SQL"
+        "Visual Basic .NET"
+        "PHP"
+        "Assembly"
+        "Go"
+        "R"
+        "Scala"
+        "Kotlin"
+        "Erlang"
+        "Elixir"
+        "Lisp"
+        "Swift"
+        "Objective-C"
+        "TypeScript"
+    ]
+    let frameworks = [
+        "ASP.NET MVC"
+        "ASP.NET Web API"
+        "ASP.NET Web Forms"
+        ".NET"
+        "Dotnet Core"
+        "Django"
+        "Rails"
+        "Node.js"
+        "Ember"
+        "Knockout"
+        "JQuery"
+        "React"
+        "Vue"
+        "Angular"
+    ]
+    let dataTechnologies = [
+        "SQL Server"
+        "Postgres"
+        "MySQL"
+        "Redshift"
+        "DynamoDB"
+        "Cassandra"
+        "Elasticsearch"
+        "Oracle"
+        "SAP HANA"
+        "MongoDB"
+        "MariaDB"
+        "RavenDB"
+        "DB2"
+        "Redis"
+        "SQLite"
+        "SOLR"
+        "Hive"
+        "Neo4J"
+        "CosmosDB"
+        "Spark"
+        "InfluxDB"
+    ]
+    let sourceControls  = [
+        "Git"
+        "TFS"
+        "Subversion"
+    ]
+    let projectMgmtSoftwares = [
+        "Jira"
+        "TFS"
+        "Trello"
+        "Bitbucket"
+        "Github"
+    ]
+
+    let remoteWorkOptions = [
+        "No Remote"
+        "Some Remote"
+        "Fully Remote"
+        "Candidate's Option"
+    ]
